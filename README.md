@@ -26,7 +26,7 @@ My passion lies in applying **Data Science and AI** to solve complex financial a
 
 📫 How to Reach Me: 
 - [**LinkedIn**](www.linkedin.com/in/sai-venkata-prasad-akanker-754a4a16a)  
-- **Email:** 
+- **Email:** (saivenkataprasada@gmail.com)
 
 😄 **Pronouns:** He/Him  
 ⚡ **Fun Fact:** I love diving into **data science challenges**, analyzing trends, and building **AI models** that make decision-making smarter! 🚀  
